@@ -148,7 +148,7 @@ I'm passionate about:
 
 I'm always open to discussing technology, collaboration opportunities, or just connecting with fellow developers!
 
-- **Portfolio:** [akanz.netlify.app](https://marakanz.netlify.app)
+- **Portfolio:** [marakanz.netlify.app](https://marakanz.netlify.app)
 - **LinkedIn:** [linkedin.com/in/juwon-akande](https://linkedin.com/in/juwon-akande)
 - **Email:** juwonakande07@gmail.com
 - **Phone:** +1-204-698-6705
